@@ -1,4 +1,4 @@
-# Campus Calm
+# BSU Awareness 
 
 An interactive **Mental Health Consultant** for college students, with Bowie State resources. It provides general wellness guidance, not clinical care.
 
