@@ -1,8 +1,8 @@
-# BSU Awareness 
+# Mental Health Consultant
 
 An interactive **Mental Health Consultant** for college students, with Bowie State resources. It provides general wellness guidance, not clinical care.
 
-**Live application:** [Open Campus Calm](https://campus-calm-bsu.cedricrich74.chatgpt.site)
+**Link to website:** [Open Campus Calm](https://campus-calm-bsu.cedricrich74.chatgpt.site)
 
 **GitHub repository:** [BSU-project](https://github.com/Cedjb2/BSU-project)
 
